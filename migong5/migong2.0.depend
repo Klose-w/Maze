@@ -1,0 +1,892 @@
+# depslib dependency file v1.0
+1451877263 source:c:\users\cie\desktop\migong2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+
+1451434540 c:\users\cie\desktop\migong2.0\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 c:\users\cie\desktop\migong2.0\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451484402 c:\users\cie\desktop\migong2.0\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451876148 c:\users\cie\desktop\migong2.0\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451438257 source:c:\users\cie\desktop\migong2.0\ifstream.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"shortest.h"
+
+1451461142 c:\users\cie\desktop\migong2.0\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451482504 source:g:\migong2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+
+1451434540 g:\migong2.0\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 g:\migong2.0\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451434976 g:\migong2.0\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451435074 g:\migong2.0\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451461142 g:\migong2.0\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451484766 source:j:\migong2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+
+1451434540 j:\migong2.0\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 j:\migong2.0\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451484402 j:\migong2.0\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451435074 j:\migong2.0\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451461142 j:\migong2.0\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451486044 source:i:\migong2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+
+1451434540 i:\migong2.0\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 i:\migong2.0\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451484402 i:\migong2.0\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451435074 i:\migong2.0\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451461142 i:\migong2.0\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451878012 source:i:\migong4.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+
+1451434540 i:\migong4.0\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 i:\migong4.0\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451484402 i:\migong4.0\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451876150 i:\migong4.0\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451461142 i:\migong4.0\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451882184 source:c:\users\wade\desktop\migong4.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+
+1451434540 c:\users\wade\desktop\migong4.0\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 c:\users\wade\desktop\migong4.0\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451484402 c:\users\wade\desktop\migong4.0\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451876150 c:\users\wade\desktop\migong4.0\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451461142 c:\users\wade\desktop\migong4.0\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894746 source:g:\migong4.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451888706 g:\migong4.1\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451461650 g:\migong4.1\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451893592 g:\migong4.1\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451876150 g:\migong4.1\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451461142 g:\migong4.1\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451893474 g:\migong4.1\bread.h
+
+1451902951 source:c:\users\cie\desktop\migong4.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895470 c:\users\cie\desktop\migong4.1\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 c:\users\cie\desktop\migong4.1\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899508 c:\users\cie\desktop\migong4.1\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.1\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.1\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451902358 c:\users\cie\desktop\migong4.1\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
+1451903163 source:c:\users\cie\desktop\migong4.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895470 c:\users\cie\desktop\migong4.2\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 c:\users\cie\desktop\migong4.2\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899508 c:\users\cie\desktop\migong4.2\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.2\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.2\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451902358 c:\users\cie\desktop\migong4.2\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
+1451919342 source:c:\users\wade\desktop\migong4.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895472 c:\users\wade\desktop\migong4.2\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 c:\users\wade\desktop\migong4.2\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899510 c:\users\wade\desktop\migong4.2\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\wade\desktop\migong4.2\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\wade\desktop\migong4.2\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451902360 c:\users\wade\desktop\migong4.2\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
+1451963160 source:c:\users\cie\desktop\migong4.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895472 c:\users\cie\desktop\migong4.4\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 c:\users\cie\desktop\migong4.4\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899510 c:\users\cie\desktop\migong4.4\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.4\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.4\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451957834 c:\users\cie\desktop\migong4.4\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
+1451968579 source:c:\users\wade\desktop\migong4.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895472 c:\users\wade\desktop\migong4.5\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 c:\users\wade\desktop\migong4.5\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899510 c:\users\wade\desktop\migong4.5\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\wade\desktop\migong4.5\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\wade\desktop\migong4.5\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451957836 c:\users\wade\desktop\migong4.5\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
+1451985958 source:c:\users\cie\desktop\migong4.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895472 c:\users\cie\desktop\migong4.5\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 c:\users\cie\desktop\migong4.5\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899510 c:\users\cie\desktop\migong4.5\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451983687 c:\users\cie\desktop\migong4.5\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 c:\users\cie\desktop\migong4.5\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451957836 c:\users\cie\desktop\migong4.5\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
+1451986326 source:g:\migong5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<graph2d.h>
+	<time.h>
+	"minheap.h"
+	"graph.h"
+	"shortest.h"
+	"ufset.h"
+	"ifstream.h"
+	"bread.h"
+
+1451895472 g:\migong5\minheap.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451894980 g:\migong5\graph.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+
+1451899510 g:\migong5\shortest.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451983688 g:\migong5\ufset.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+	"minheap.h"
+	"graph.h"
+
+1451894980 g:\migong5\ifstream.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<queue>
+	<fstream>
+	<windows.h>
+
+1451957836 g:\migong5\bread.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<fstream>
+
